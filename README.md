@@ -54,7 +54,7 @@
 <br>
 
 ## ⚙️ ERD 
-![Moim_erd](https://github.com/beyond-sw-camp/be03-final-1TEAM-TID/assets/60949121/62aea2d0-6779-4d70-855f-69e7e3d1618d)
+![Moim(모임)](https://github.com/beyond-sw-camp/be03-final-1TEAM-MOIM/assets/60949121/0551ce54-7198-4bcb-93f7-c54e1173aa45)
 
 
 <br>
